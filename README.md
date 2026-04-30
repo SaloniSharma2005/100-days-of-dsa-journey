@@ -9,8 +9,16 @@ I am solving DSA problems daily using Java to strengthen my problem-solving skil
 
  📅 Progress
 
- Day - 1
+ 
+Day - 1
 Problem - Reverse Array 
+Approach - Two Pointer Technique
+
+ 
+Day - 2
+Problem 1 - Min and Max in Array
+Approach - Traversal
+Problem 2 - Move All Zeroes To End
 Approach - Two Pointer Technique
 
 Goals
