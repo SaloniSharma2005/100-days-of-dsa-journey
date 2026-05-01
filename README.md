@@ -21,6 +21,12 @@ Approach - Traversal
 Problem 2 - Move All Zeroes To End
 Approach - Two Pointer Technique
 
+Day - 3
+Problem 1 -Rotate Array by One
+Approach - Array Manipulation
+Problem 2 - Check if array is sorted
+Approach - Traversal 
+
 Goals
 
 - Build a strong foundation in Data Structures & Algorithms  
