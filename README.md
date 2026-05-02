@@ -27,6 +27,12 @@ Approach - Array Manipulation
 Problem 2 - Check if array is sorted
 Approach - Traversal 
 
+Day - 4
+Problem 1 - kth largest Integer
+Approach - Sorting
+Problem 2 - Second Largest Element
+Approach - Traversal 
+
 Goals
 
 - Build a strong foundation in Data Structures & Algorithms  
