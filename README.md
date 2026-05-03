@@ -33,6 +33,16 @@ Approach - Sorting
 Problem 2 - Second Largest Element
 Approach - Traversal 
 
+Day - 5  
+Problem 1 - Remove Duplicates from Sorted Array  
+Approach - Traversal  
+
+Problem 2 - Union of Two Sorted Arrays  
+Approach - Two Pointer  
+
+
+
+
 Goals
 
 - Build a strong foundation in Data Structures & Algorithms  
