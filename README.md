@@ -36,10 +36,14 @@ Approach - Traversal
 Day - 5  
 Problem 1 - Remove Duplicates from Sorted Array  
 Approach - Traversal  
-
-Problem 2 - Union of Two Sorted Arrays  
+roblem 2 - Union of Two Sorted Arrays  
 Approach - Two Pointer  
 
+Day - 6
+Missing Number in Array  
+Approach: Sum Formula
+Maximum Subarray Sum  
+Approach: Kadane’s Algorithm  
 
 
 
