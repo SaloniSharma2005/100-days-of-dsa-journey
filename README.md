@@ -40,11 +40,16 @@ roblem 2 - Union of Two Sorted Arrays
 Approach - Two Pointer  
 
 Day - 6
-Missing Number in Array  
-Approach: Sum Formula
-Maximum Subarray Sum  
-Approach: Kadane’s Algorithm  
+Problem 1 - Missing Number in Array  
+Approach - Sum Formula
+Problem 2 - Maximum Subarray Sum  
+Approach - Kadane’s Algorithm  
 
+Day - 7  
+Problem 1 - Reverse String  
+Approach - Traversal  
+Problem 2 - Check Palindrome  
+Approach - Two Pointer  
 
 
 Goals
