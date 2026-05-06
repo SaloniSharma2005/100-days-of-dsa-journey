@@ -51,6 +51,12 @@ Approach - Traversal
 Problem 2 - Check Palindrome  
 Approach - Two Pointer  
 
+Day - 8  
+Problem 1 - Anagram Check  
+Approach - Frequency Array 
+Problem 2 - Remove Spaces from String  
+Approach - String Traversal  
+
 
 Goals
 
