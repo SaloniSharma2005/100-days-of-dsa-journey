@@ -57,6 +57,9 @@ Approach - Frequency Array
 Problem 2 - Remove Spaces from String  
 Approach - String Traversal  
 
+Day - 9  
+Problem 1 - Count Words in String  
+Approach - String Traversal  
 
 Goals
 
