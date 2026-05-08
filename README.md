@@ -61,6 +61,12 @@ Day - 9
 Problem 1 - Count Words in String  
 Approach - String Traversal  
 
+Day - 10  
+Problem 1 - Longest Palindromic Substring  
+Approach - Expand Around Center  
+Problem 2 - Longest Common Substring  
+Approach - Dynamic Programming (2D DP)
+
 Goals
 
 - Build a strong foundation in Data Structures & Algorithms  
