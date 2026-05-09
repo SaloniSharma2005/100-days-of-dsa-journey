@@ -67,6 +67,12 @@ Approach - Expand Around Center
 Problem 2 - Longest Common Substring  
 Approach - Dynamic Programming (2D DP)
 
+Day - 11  
+Problem 1 - Maximum Occurring Character  
+Approach - Nested Loop + Frequency Count  
+Problem 2 - First Non-Repeating Character  
+Approach - Nested Loop Traversal
+
 Goals
 
 - Build a strong foundation in Data Structures & Algorithms  
