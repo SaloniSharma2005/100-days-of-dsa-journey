@@ -73,6 +73,12 @@ Approach - Nested Loop + Frequency Count
 Problem 2 - First Non-Repeating Character  
 Approach - Nested Loop Traversal
 
+Day - 12  
+Problem 1 - Longest Common Subsequence  
+Approach - Recursion + Memoization (Top Down DP) 
+Problem 2 - Shortest Common Supersequence  
+Approach - Dynamic Programming using LCS
+
 Goals
 
 - Build a strong foundation in Data Structures & Algorithms  
