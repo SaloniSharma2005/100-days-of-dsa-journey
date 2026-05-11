@@ -79,6 +79,12 @@ Approach - Recursion + Memoization (Top Down DP)
 Problem 2 - Shortest Common Supersequence  
 Approach - Dynamic Programming using LCS
 
+Day - 13  
+Problem 1 - Push Zeros to End  
+Approach - Two Pointer + Swapping
+Problem 2 - Remove Duplicates from Sorted Array  
+Approach - Array Traversal
+
 Goals
 
 - Build a strong foundation in Data Structures & Algorithms  
