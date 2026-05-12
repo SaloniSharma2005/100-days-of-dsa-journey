@@ -85,6 +85,12 @@ Approach - Two Pointer + Swapping
 Problem 2 - Remove Duplicates from Sorted Array  
 Approach - Array Traversal
 
+Day - 14  
+Problem 1 - Merge Sort  
+Approach - Divide and Conquer + Recursion  
+Problem 2 - Sum of Array Elements  
+Approach - Array Traversal
+
 Goals
 
 - Build a strong foundation in Data Structures & Algorithms  
