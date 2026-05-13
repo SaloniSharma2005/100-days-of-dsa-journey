@@ -91,6 +91,12 @@ Approach - Divide and Conquer + Recursion
 Problem 2 - Sum of Array Elements  
 Approach - Array Traversal
 
+Day - 15  
+Problem 1 - Rotate Array  
+Approach - Reversal Algorithm 
+Problem 2 - Quick Left Rotation  
+Approach - Array Reversal + In-place Swapping
+
 Goals
 
 - Build a strong foundation in Data Structures & Algorithms  
