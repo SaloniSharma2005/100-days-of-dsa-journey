@@ -97,6 +97,12 @@ Approach - Reversal Algorithm
 Problem 2 - Quick Left Rotation  
 Approach - Array Reversal + In-place Swapping
 
+Day - 16  
+Problem 1 - Maximum Sub Array  
+Approach - Kadane’s Algorithm 
+Problem 2 - Maximum Product Subarray  
+Approach - Dynamic Programming
+
 Goals
 
 - Build a strong foundation in Data Structures & Algorithms  
