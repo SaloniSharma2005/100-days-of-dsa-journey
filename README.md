@@ -103,6 +103,14 @@ Approach - Kadane’s Algorithm
 Problem 2 - Maximum Product Subarray  
 Approach - Dynamic Programming
 
+Day - 17  
+Problem 1 - Subarrays with Sum K  
+Approach - Prefix Sum + HashMap  
+Problem 2 - Subarrays with Given Sum  
+Approach - Prefix Sum + HashMap
+Problem 3 - Longest Subarray with Sum K  
+Approach - Prefix Sum + HashMap
+
 Goals
 
 - Build a strong foundation in Data Structures & Algorithms  
