@@ -111,6 +111,16 @@ Approach - Prefix Sum + HashMap
 Problem 3 - Longest Subarray with Sum K  
 Approach - Prefix Sum + HashMap
 
+Day - 18  
+Problem 1 - Segregate 0s and 1s  
+Approach - Counting Technique 
+Problem 2 - Wave Array  
+Approach - Swapping Adjacent Elements  
+Problem 3 - Sort Specific order
+Approach - ArrayList + Sorting 
+Problem 4 - Rearrange Positive and Negative Numbers Alternately  
+Approach - Separate Arrays + Two Pointer
+
 Goals
 
 - Build a strong foundation in Data Structures & Algorithms  
