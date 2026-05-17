@@ -121,6 +121,14 @@ Approach - ArrayList + Sorting
 Problem 4 - Rearrange Positive and Negative Numbers Alternately  
 Approach - Separate Arrays + Two Pointer
 
+Day - 19  
+Problem 1 - Array Leaders  
+Approach - Reverse Traversal 
+Problem 2 - Rearrange Array Alternately  
+Approach - Sorting + Encoding Technique 
+Problem 3 - Stock Buy and Sell  
+Approach - Greedy Algorithm
+
 Goals
 
 - Build a strong foundation in Data Structures & Algorithms  
