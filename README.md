@@ -129,6 +129,14 @@ Approach - Sorting + Encoding Technique
 Problem 3 - Stock Buy and Sell  
 Approach - Greedy Algorithm
 
+Day - 20  
+Problem 1 - Max Consecutive Bit  
+Approach - Array Traversal + Counting  
+Problem 2 - Third Largest Element  
+Approach - Tracking Three Maximum Elements  
+Problem 3 - Trapping Rain Water  
+Approach - Prefix Max + Suffix Max Arrays
+
 Goals
 
 - Build a strong foundation in Data Structures & Algorithms  
