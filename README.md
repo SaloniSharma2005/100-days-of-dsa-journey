@@ -137,6 +137,14 @@ Approach - Tracking Three Maximum Elements
 Problem 3 - Trapping Rain Water  
 Approach - Prefix Max + Suffix Max Arrays
 
+Day - 21  
+Problem 1 - Equilibrium Point  
+Approach - Prefix Sum Technique 
+Problem 2 - Majority Element  
+Approach - Boyer-Moore Voting Algorithm  
+Problem 3 - Distinct Difference  
+Approach - HashSet + Prefix/Suffix Distinct Count
+
 Goals
 
 - Build a strong foundation in Data Structures & Algorithms  
