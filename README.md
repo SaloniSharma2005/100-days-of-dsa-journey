@@ -145,6 +145,13 @@ Approach - Boyer-Moore Voting Algorithm
 Problem 3 - Distinct Difference  
 Approach - HashSet + Prefix/Suffix Distinct Count
 
+Day - 22
+
+Problem 1 - Sorted Insert Position
+Approach - Binary Search
+Problem 2 - Binary Search in Forest
+Approach - Binary Search on Answer
+
 Goals
 
 - Build a strong foundation in Data Structures & Algorithms  
