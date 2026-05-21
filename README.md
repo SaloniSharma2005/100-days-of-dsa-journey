@@ -152,6 +152,15 @@ Approach - Binary Search
 Problem 2 - Binary Search in Forest
 Approach - Binary Search on Answer
 
+Day - 23
+
+Problem 1 - Square Root
+Approach - Iterative Brute Force
+Problem 2 - Check Perfect Square
+Approach - Mathematical Traversal
+Problem 3 - Koko Eating Bananas
+Approach - Binary Search on Answer
+
 Goals
 
 - Build a strong foundation in Data Structures & Algorithms  
