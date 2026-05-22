@@ -161,6 +161,13 @@ Approach - Mathematical Traversal
 Problem 3 - Koko Eating Bananas
 Approach - Binary Search on Answer
 
+Day - 24
+
+Problem 1 - Peak Element
+Approach - Array Traversal and Neighbor Comparison
+Problem 2 - Number of Occurrence
+Approach - Linear Search and Frequency Counting
+
 Goals
 
 - Build a strong foundation in Data Structures & Algorithms  
