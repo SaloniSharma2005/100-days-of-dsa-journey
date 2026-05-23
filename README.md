@@ -168,6 +168,17 @@ Approach - Array Traversal and Neighbor Comparison
 Problem 2 - Number of Occurrence
 Approach - Linear Search and Frequency Counting
 
+Day - 25
+
+Problem 1 - First and Last in Sorted Array
+Approach - Linear Traversal
+Problem 2 - Intersection of Two Sorted Arrays
+Approach - Two Pointer Technique
+Problem 3 - Single Element in a Sorted Array
+Approach - Binary Search
+Problem 4 - Shuffle the Array
+Approach - Array Manipulation
+
 Goals
 
 - Build a strong foundation in Data Structures & Algorithms  
