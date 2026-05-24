@@ -179,6 +179,14 @@ Approach - Binary Search
 Problem 4 - Shuffle the Array
 Approach - Array Manipulation
 
+Day - 26 
+Problem 1 - Majority Element 
+Approach - Boyer Moore Voting Algorithm 
+Problem 2 - Max Consecutive Ones 
+Approach - Array Traversal 
+Problem 3 - Single Number 
+Approach - Brute Force Frequency Counting
+
 Goals
 
 - Build a strong foundation in Data Structures & Algorithms  
