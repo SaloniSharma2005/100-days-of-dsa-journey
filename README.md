@@ -187,6 +187,12 @@ Approach - Array Traversal
 Problem 3 - Single Number 
 Approach - Brute Force Frequency Counting
 
+Day - 27  
+Problem 1 - Remove Element  
+Approach - In-place Array Traversal 
+Problem 2 - Merge Sorted Array  
+Approach - Two Pointer Technique
+
 Goals
 
 - Build a strong foundation in Data Structures & Algorithms  
