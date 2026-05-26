@@ -193,6 +193,12 @@ Approach - In-place Array Traversal
 Problem 2 - Merge Sorted Array  
 Approach - Two Pointer Technique
 
+Day - 28  
+Problem 1 - Squares of a Sorted Array  
+Approach - Two Pointer Technique 
+Problem 2 - Plus One  
+Approach - Carry Handling and Digit Manipulation
+
 Goals
 
 - Build a strong foundation in Data Structures & Algorithms  
