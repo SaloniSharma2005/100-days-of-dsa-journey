@@ -199,6 +199,12 @@ Approach - Two Pointer Technique
 Problem 2 - Plus One  
 Approach - Carry Handling and Digit Manipulation
 
+Day - 29  
+Problem 1 - Find Pivot Index  
+Approach - Prefix Sum Technique 
+Problem 2 - Height Checker  
+Approach - Sorting + Array Comparison
+
 Goals
 
 - Build a strong foundation in Data Structures & Algorithms  
