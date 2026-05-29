@@ -205,6 +205,12 @@ Approach - Prefix Sum Technique
 Problem 2 - Height Checker  
 Approach - Sorting + Array Comparison
 
+Day - 30  
+Problem 1 - Find Numbers with Even Number of Digits  
+Approach - Digit Counting  
+Problem 2 - Third Maximum Number  
+Approach - Sorting + Distinct Element Tracking
+
 Goals
 
 - Build a strong foundation in Data Structures & Algorithms  
