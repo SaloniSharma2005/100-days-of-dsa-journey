@@ -211,6 +211,12 @@ Approach - Digit Counting
 Problem 2 - Third Maximum Number  
 Approach - Sorting + Distinct Element Tracking
 
+Day - 31  
+Problem 1 - Sort Array By Parity  
+Approach - Two Pointer Technique  
+Problem 2 - Replace Elements with Greatest Element on Right Side  
+Approach - Reverse Traversal + Maximum Tracking
+
 Goals
 
 - Build a strong foundation in Data Structures & Algorithms  
