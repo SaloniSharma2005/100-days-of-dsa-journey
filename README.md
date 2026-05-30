@@ -217,6 +217,13 @@ Approach - Two Pointer Technique
 Problem 2 - Replace Elements with Greatest Element on Right Side  
 Approach - Reverse Traversal + Maximum Tracking
 
+Day - 32
+
+Problem 1 - Valid Mountain Array
+Approach - Single Traversal / Peak Validation
+Problem 2 - Monotonic Array
+Approach - Array Traversal with Increasing and Decreasing Flags
+
 Goals
 
 - Build a strong foundation in Data Structures & Algorithms  
