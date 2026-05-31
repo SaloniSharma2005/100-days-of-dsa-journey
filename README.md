@@ -224,6 +224,13 @@ Approach - Single Traversal / Peak Validation
 Problem 2 - Monotonic Array
 Approach - Array Traversal with Increasing and Decreasing Flags
 
+Day - 33
+
+Problem 1 - Longest Continuous Increasing Subsequence
+Approach - Array Traversal + Longest Increasing Streak
+Problem 2 - Subarray Sum Equals K
+Approach - Prefix Sum + HashMap
+
 Goals
 
 - Build a strong foundation in Data Structures & Algorithms  
