@@ -231,6 +231,13 @@ Approach - Array Traversal + Longest Increasing Streak
 Problem 2 - Subarray Sum Equals K
 Approach - Prefix Sum + HashMap
 
+Day - 34
+
+Problem 1 - Contains Duplicate
+Approach - Sorting + Adjacent Element Comparison
+Problem 2 - Search Insert Position
+Approach - Binary Search
+
 Goals
 
 - Build a strong foundation in Data Structures & Algorithms  
