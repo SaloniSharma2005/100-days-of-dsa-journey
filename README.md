@@ -238,6 +238,13 @@ Approach - Sorting + Adjacent Element Comparison
 Problem 2 - Search Insert Position
 Approach - Binary Search
 
+Day - 35
+
+Problem 1 - 3Sum
+Approach - Sorting + Two Pointer Technique
+Problem 2 - Jump Game
+Approach - Greedy Algorithm
+
 Goals
 
 - Build a strong foundation in Data Structures & Algorithms  
