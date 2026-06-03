@@ -245,6 +245,13 @@ Approach - Sorting + Two Pointer Technique
 Problem 2 - Jump Game
 Approach - Greedy Algorithm
 
+Day - 36
+
+Problem 1 - Container With Most Water
+Approach - Two Pointer Technique
+Problem 2 - Gas Station
+Approach - Greedy Algorithm
+
 Goals
 
 - Build a strong foundation in Data Structures & Algorithms  
