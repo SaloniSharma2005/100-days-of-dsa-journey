@@ -252,6 +252,15 @@ Approach - Two Pointer Technique
 Problem 2 - Gas Station
 Approach - Greedy Algorithm
 
+Day - 37
+
+Problem 1 - Check if Array is Sorted
+Approach - Array Traversal
+Problem 2 - Kth Smallest Element
+Approach - Sorting
+Problem 3 - Find Missing and Repeating Element
+Approach - Frequency Array
+
 Goals
 
 - Build a strong foundation in Data Structures & Algorithms  
