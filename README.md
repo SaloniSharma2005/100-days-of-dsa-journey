@@ -261,6 +261,13 @@ Approach - Sorting
 Problem 3 - Find Missing and Repeating Element
 Approach - Frequency Array
 
+Day - 38
+
+Problem 1 - Bubble Sort
+Approach - Nested Loops + Swapping
+Problem 2 - Check if Two Arrays are Equal
+Approach - HashMap Frequency Counting
+
 Goals
 
 - Build a strong foundation in Data Structures & Algorithms  
