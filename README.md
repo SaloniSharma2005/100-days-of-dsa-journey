@@ -268,6 +268,13 @@ Approach - Nested Loops + Swapping
 Problem 2 - Check if Two Arrays are Equal
 Approach - HashMap Frequency Counting
 
+Day - 39
+
+Problem 1 - Keep Multiplying Found Values by Two
+Approach - Array Traversal + Simulation
+Problem 2 - Largest Number At Least Twice of Others
+Approach - Largest and Second Largest Element Tracking
+
 Goals
 
 - Build a strong foundation in Data Structures & Algorithms  
