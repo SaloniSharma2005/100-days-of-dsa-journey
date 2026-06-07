@@ -275,6 +275,13 @@ Approach - Array Traversal + Simulation
 Problem 2 - Largest Number At Least Twice of Others
 Approach - Largest and Second Largest Element Tracking
 
+Day - 40
+
+Problem 1 - Running Sum of 1D Array
+Approach - Prefix Sum
+Problem 2 - Richest Customer Wealth
+Approach - Matrix Traversal + Maximum Sum Tracking
+
 Goals
 
 - Build a strong foundation in Data Structures & Algorithms  
