@@ -282,6 +282,13 @@ Approach - Prefix Sum
 Problem 2 - Richest Customer Wealth
 Approach - Matrix Traversal + Maximum Sum Tracking
 
+Day - 41
+
+Problem 1 - Number of Good Pairs
+Approach - Frequency Counting
+Problem 2 - Kids With the Greatest Number of Candies
+Approach - Find Maximum + Comparison
+
 Goals
 
 - Build a strong foundation in Data Structures & Algorithms  
