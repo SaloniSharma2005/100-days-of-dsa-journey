@@ -289,6 +289,13 @@ Approach - Frequency Counting
 Problem 2 - Kids With the Greatest Number of Candies
 Approach - Find Maximum + Comparison
 
+Day - 42
+
+Problem 1 - Assign Cookies
+Approach - Greedy + Sorting + Two Pointers
+Problem 2 - Happy Number
+Approach - HashSet + Cycle Detection
+
 Goals
 
 - Build a strong foundation in Data Structures & Algorithms  
