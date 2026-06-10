@@ -296,6 +296,13 @@ Approach - Greedy + Sorting + Two Pointers
 Problem 2 - Happy Number
 Approach - HashSet + Cycle Detection
 
+Day - 43
+
+Problem 1 - Relative Sort Array
+Approach - Frequency Counting + Custom Ordering
+Problem 2 - Maximum Non-Negative Subarray
+Approach - Array Traversal + Maximum Sum Tracking
+
 Goals
 
 - Build a strong foundation in Data Structures & Algorithms  
