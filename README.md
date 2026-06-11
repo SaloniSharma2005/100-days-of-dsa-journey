@@ -303,6 +303,13 @@ Approach - Frequency Counting + Custom Ordering
 Problem 2 - Maximum Non-Negative Subarray
 Approach - Array Traversal + Maximum Sum Tracking
 
+Day - 44
+
+Problem 1 - Can Place Flowers
+Approach - Greedy Placement + Array Traversal
+Problem 2 - Find the Highest Altitude
+Approach - Prefix Sum + Maximum Tracking
+
 Goals
 
 - Build a strong foundation in Data Structures & Algorithms  
