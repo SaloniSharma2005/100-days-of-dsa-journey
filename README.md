@@ -310,6 +310,11 @@ Approach - Greedy Placement + Array Traversal
 Problem 2 - Find the Highest Altitude
 Approach - Prefix Sum + Maximum Tracking
 
+Day - 45
+
+Problem - Distribute Candies
+Approach - HashSet + Distinct Element Counting
+
 Goals
 
 - Build a strong foundation in Data Structures & Algorithms  
