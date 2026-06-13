@@ -315,6 +315,13 @@ Day - 45
 Problem - Distribute Candies
 Approach - HashSet + Distinct Element Counting
 
+Day - 46
+
+Problem 1 - Find Lucky Integer in an Array
+Approach - Frequency Counting
+Problem 2 - Best Sightseeing Pair
+Approach - Greedy Optimization + Maximum Value Tracking
+
 Goals
 
 - Build a strong foundation in Data Structures & Algorithms  
