@@ -322,6 +322,15 @@ Approach - Frequency Counting
 Problem 2 - Best Sightseeing Pair
 Approach - Greedy Optimization + Maximum Value Tracking
 
+Day - 47
+
+Problem 1 - Reverse Words in a String III
+Approach - StringBuilder + Word Traversal
+Problem 2 - Reverse Vowels of a String
+Approach - Two Pointer Technique
+Problem 3 - Valid Palindrome II
+Approach - Two Pointers + Palindrome Validation
+
 Goals
 
 - Build a strong foundation in Data Structures & Algorithms  
