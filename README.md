@@ -331,6 +331,13 @@ Approach - Two Pointer Technique
 Problem 3 - Valid Palindrome II
 Approach - Two Pointers + Palindrome Validation
 
+Day - 48
+
+Problem 1 - Check If Two String Arrays are Equivalent
+Approach - StringBuilder + String Comparison
+Problem 2 - Append Characters to String to Make Subsequence
+Approach - Two Pointer Technique
+
 Goals
 
 - Build a strong foundation in Data Structures & Algorithms  
