@@ -338,6 +338,13 @@ Approach - StringBuilder + String Comparison
 Problem 2 - Append Characters to String to Make Subsequence
 Approach - Two Pointer Technique
 
+Day - 49
+
+Problem 1 - Is Subsequence
+Approach - Two Pointer Technique
+Problem 2 - Compare Version Numbers
+Approach - String Parsing + Two Pointers
+
 Goals
 
 - Build a strong foundation in Data Structures & Algorithms  
