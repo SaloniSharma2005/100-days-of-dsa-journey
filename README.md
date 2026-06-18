@@ -345,6 +345,16 @@ Approach - Two Pointer Technique
 Problem 2 - Compare Version Numbers
 Approach - String Parsing + Two Pointers
 
+Day - 50
+
+Problem - Shortest Distance to a Character
+Approach - Two Pass Traversal (Left to Right + Right to Left)
+
+Day - 51
+
+Problem - Partition Labels
+Approach - Greedy + Last Occurrence Tracking
+
 Goals
 
 - Build a strong foundation in Data Structures & Algorithms  
