@@ -355,6 +355,13 @@ Day - 51
 Problem - Partition Labels
 Approach - Greedy + Last Occurrence Tracking
 
+Day - 52
+
+Problem 1 - Longest Common Prefix
+Approach - Prefix Reduction + String Matching
+Problem 2 - Length of Last Word
+Approach - Reverse Traversal
+
 Goals
 
 - Build a strong foundation in Data Structures & Algorithms  
