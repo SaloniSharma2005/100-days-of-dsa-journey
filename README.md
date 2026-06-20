@@ -362,6 +362,13 @@ Approach - Prefix Reduction + String Matching
 Problem 2 - Length of Last Word
 Approach - Reverse Traversal
 
+Day - 53
+
+Problem 1 - Roman to Integer
+Approach - Character Mapping + Traversal
+Problem 2 - Detect Capital
+Approach - Character Counting
+
 Goals
 
 - Build a strong foundation in Data Structures & Algorithms  
