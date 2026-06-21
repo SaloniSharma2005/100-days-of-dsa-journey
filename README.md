@@ -369,6 +369,13 @@ Approach - Character Mapping + Traversal
 Problem 2 - Detect Capital
 Approach - Character Counting
 
+Day - 54
+
+Problem 1 - First Unique Character in a String
+Approach - Frequency Counting
+Problem 2 - Valid Parentheses
+Approach - Stack Data Structure
+
 Goals
 
 - Build a strong foundation in Data Structures & Algorithms  
