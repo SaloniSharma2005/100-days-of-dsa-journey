@@ -376,6 +376,13 @@ Approach - Frequency Counting
 Problem 2 - Valid Parentheses
 Approach - Stack Data Structure
 
+Day - 55
+
+Problem 1 - Reverse Prefix of Word
+Approach - Two Pointer + In-place Reversal
+Problem 2 - Goal Parser Interpretation
+Approach - String Traversal + Pattern Matching
+
 Goals
 
 - Build a strong foundation in Data Structures & Algorithms  
