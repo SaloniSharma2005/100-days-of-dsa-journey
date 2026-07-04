@@ -383,6 +383,13 @@ Approach - Two Pointer + In-place Reversal
 Problem 2 - Goal Parser Interpretation
 Approach - String Traversal + Pattern Matching
 
+Day - 56
+
+Problem 1 - Jewels and Stones
+Approach - HashSet for Fast Lookup
+Problem 2 - To Lower Case
+Approach - Character Manipulation using ASCII
+
 Goals
 
 - Build a strong foundation in Data Structures & Algorithms  
