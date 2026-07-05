@@ -390,6 +390,13 @@ Approach - HashSet for Fast Lookup
 Problem 2 - To Lower Case
 Approach - Character Manipulation using ASCII
 
+Day - 57
+
+Problem 1 - Excel Sheet Column Number
+Approach - Base-26 Conversion
+Problem 2 - Count the Number of Consistent Strings
+Approach - Boolean Array + Character Validation
+
 Goals
 
 - Build a strong foundation in Data Structures & Algorithms  
