@@ -396,12 +396,20 @@ Problem 1 - Excel Sheet Column Number
 Approach - Base-26 Conversion
 Problem 2 - Count the Number of Consistent Strings
 Approach - Boolean Array + Character Validation
+
 Day - 58
 
 Problem 1 - Buddy Strings
 Approach - Character Comparison + Frequency Counting
 Problem 2 - Check if One String Swap Can Make Strings Equal
 Approach - Mismatch Tracking + One Swap Validation
+
+Day - 59
+
+Problem 1 - Rotate String
+Approach - String Concatenation + contains()
+Problem 2 - Uncommon Words from Two Sentences
+Approach - HashMap + Frequency Counting
 
 Goals
 
