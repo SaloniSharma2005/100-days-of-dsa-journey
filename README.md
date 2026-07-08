@@ -411,6 +411,14 @@ Approach - String Concatenation + contains()
 Problem 2 - Uncommon Words from Two Sentences
 Approach - HashMap + Frequency Counting
 
+Day - 60
+
+Problem 1 - Reverse Only Letters
+Approach - Two Pointer Technique
+
+Problem 2 - Goat Latin
+Approach - String Manipulation + Simulation
+
 Goals
 
 - Build a strong foundation in Data Structures & Algorithms  
