@@ -419,6 +419,14 @@ Approach - Two Pointer Technique
 Problem 2 - Goat Latin
 Approach - String Manipulation + Simulation
 
+Day - 61
+
+Problem 1 - String Compression
+Approach - Run-Length Encoding + In-place Modification
+
+Problem 2 - Reverse String II
+Approach - Two Pointer Technique
+
 Goals
 
 - Build a strong foundation in Data Structures & Algorithms  
