@@ -427,6 +427,14 @@ Approach - Run-Length Encoding + In-place Modification
 Problem 2 - Reverse String II
 Approach - Two Pointer Technique
 
+Day - 62
+
+Problem 1 - Occurrences After Bigram
+Approach - String Splitting + Pattern Matching
+
+Problem 2 - Reformat Date
+Approach - String Parsing + Date Formatting
+
 Goals
 
 - Build a strong foundation in Data Structures & Algorithms  
