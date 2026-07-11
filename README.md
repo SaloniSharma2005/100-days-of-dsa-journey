@@ -435,6 +435,14 @@ Approach - String Splitting + Pattern Matching
 Problem 2 - Reformat Date
 Approach - String Parsing + Date Formatting
 
+Day - 63
+
+Problem 1 - Count Prefixes of a Given String
+Approach - startsWith() + String Traversal
+
+Problem 2 - Check if All Characters Have Equal Number of Occurrences
+Approach - Frequency Counting
+
 Goals
 
 - Build a strong foundation in Data Structures & Algorithms  
