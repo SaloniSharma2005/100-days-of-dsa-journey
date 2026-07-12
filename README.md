@@ -443,6 +443,14 @@ Approach - startsWith() + String Traversal
 Problem 2 - Check if All Characters Have Equal Number of Occurrences
 Approach - Frequency Counting
 
+Day - 64
+
+Problem 1 - Find Words That Can Be Formed by Characters
+Approach - Frequency Counting + Character Validation
+
+Problem 2 - Check If Two String Arrays are Equivalent
+Approach - StringBuilder + String Comparison
+
 Goals
 
 - Build a strong foundation in Data Structures & Algorithms  
