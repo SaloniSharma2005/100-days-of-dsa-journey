@@ -451,6 +451,14 @@ Approach - Frequency Counting + Character Validation
 Problem 2 - Check If Two String Arrays are Equivalent
 Approach - StringBuilder + String Comparison
 
+Day - 65
+
+Problem 1 - Word Pattern
+Approach - HashMap + HashSet (Bijection Mapping)
+
+Problem 2 - Longest Palindrome
+Approach - Frequency Counting
+
 Goals
 
 - Build a strong foundation in Data Structures & Algorithms  
