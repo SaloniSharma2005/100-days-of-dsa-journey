@@ -459,6 +459,14 @@ Approach - HashMap + HashSet (Bijection Mapping)
 Problem 2 - Longest Palindrome
 Approach - Frequency Counting
 
+Day - 66
+
+Problem 1 - Repeated Substring Pattern
+Approach - String Concatenation + Pattern Matching
+
+Problem 2 - DI String Match
+Approach - Greedy + Two Pointers
+
 Goals
 
 - Build a strong foundation in Data Structures & Algorithms  
