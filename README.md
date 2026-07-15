@@ -467,6 +467,14 @@ Approach - String Concatenation + Pattern Matching
 Problem 2 - DI String Match
 Approach - Greedy + Two Pointers
 
+Day - 67
+
+Problem 1 - Count and Say
+Approach - Run-Length Encoding (RLE) + Simulation
+
+Problem 2 - License Key Formatting
+Approach - Reverse Traversal + String Formatting
+
 Goals
 
 - Build a strong foundation in Data Structures & Algorithms  
