@@ -475,6 +475,14 @@ Approach - Run-Length Encoding (RLE) + Simulation
 Problem 2 - License Key Formatting
 Approach - Reverse Traversal + String Formatting
 
+Day - 68
+
+Problem 1 - Split a String in Balanced Strings
+Approach - Greedy + Balance Counter
+
+Problem 2 - Reverse Words in a String III
+Approach - StringBuilder + Word Traversal
+
 Goals
 
 - Build a strong foundation in Data Structures & Algorithms  
