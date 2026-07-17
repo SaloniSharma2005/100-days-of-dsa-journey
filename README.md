@@ -483,6 +483,14 @@ Approach - Greedy + Balance Counter
 Problem 2 - Reverse Words in a String III
 Approach - StringBuilder + Word Traversal
 
+Day - 69
+
+Problem 1 - Reverse Words in a String
+Approach - Reverse Traversal + Two Pointers
+
+Problem 2 - Maximum Nesting Depth of Parentheses
+Approach - Counter Technique
+
 Goals
 
 - Build a strong foundation in Data Structures & Algorithms  
