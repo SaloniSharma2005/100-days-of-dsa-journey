@@ -491,6 +491,14 @@ Approach - Reverse Traversal + Two Pointers
 Problem 2 - Maximum Nesting Depth of Parentheses
 Approach - Counter Technique
 
+Day - 70
+
+Problem 1 - String to Integer (atoi)
+Approach - String Parsing + Simulation
+
+Problem 2 - Sort Characters By Frequency
+Approach - HashMap + Priority Queue (Max Heap)
+
 Goals
 
 - Build a strong foundation in Data Structures & Algorithms  
