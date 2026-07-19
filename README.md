@@ -499,6 +499,14 @@ Approach - String Parsing + Simulation
 Problem 2 - Sort Characters By Frequency
 Approach - HashMap + Priority Queue (Max Heap)
 
+Day - 71
+
+Problem 1 - Sum of Beauty of All Substrings
+Approach - Frequency Array + Nested Loops
+
+Problem 2 - Longest Palindromic Substring
+Approach - Expand Around Center
+
 Goals
 
 - Build a strong foundation in Data Structures & Algorithms  
