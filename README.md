@@ -507,6 +507,14 @@ Approach - Frequency Array + Nested Loops
 Problem 2 - Longest Palindromic Substring
 Approach - Expand Around Center
 
+Day - 72
+
+Problem 1 - Count Asterisks
+Approach - Boolean Flag + String Traversal
+
+Problem 2 - Faulty Keyboard (Final String)
+Approach - StringBuilder + Simulation
+
 Goals
 
 - Build a strong foundation in Data Structures & Algorithms  
