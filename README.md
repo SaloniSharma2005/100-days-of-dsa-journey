@@ -515,6 +515,14 @@ Approach - Boolean Flag + String Traversal
 Problem 2 - Faulty Keyboard (Final String)
 Approach - StringBuilder + Simulation
 
+Day - 73
+
+Problem 1 - Valid Word
+Approach - Character Validation + Traversal
+
+Problem 2 - Greatest English Letter in Upper and Lower Case
+Approach - Boolean Array + ASCII Indexing
+
 Goals
 
 - Build a strong foundation in Data Structures & Algorithms  
