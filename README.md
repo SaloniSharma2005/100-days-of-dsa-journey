@@ -523,6 +523,14 @@ Approach - Character Validation + Traversal
 Problem 2 - Greatest English Letter in Upper and Lower Case
 Approach - Boolean Array + ASCII Indexing
 
+Day - 74
+
+Problem 1 - Percentage of Letter in String
+Approach - Character Counting
+
+Problem 2 - Determine if String Halves Are Alike
+Approach - Balance Counter + Helper Function
+
 Goals
 
 - Build a strong foundation in Data Structures & Algorithms  
