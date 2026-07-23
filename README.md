@@ -531,6 +531,14 @@ Approach - Character Counting
 Problem 2 - Determine if String Halves Are Alike
 Approach - Balance Counter + Helper Function
 
+Day - 75
+
+Problem 1 - Find the Difference
+Approach - XOR (Bit Manipulation)
+
+Problem 2 - Rings and Rods
+Approach - Boolean Arrays + State Tracking
+
 Goals
 
 - Build a strong foundation in Data Structures & Algorithms  
