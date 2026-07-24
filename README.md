@@ -539,6 +539,14 @@ Approach - XOR (Bit Manipulation)
 Problem 2 - Rings and Rods
 Approach - Boolean Arrays + State Tracking
 
+Day - 76
+
+Problem 1 - Redistribute Characters to Make All Strings Equal
+Approach - Frequency Array + Divisibility Check
+
+Problem 2 - Maximum Number of Words You Can Type
+Approach - Boolean Array + String Traversal
+
 Goals
 
 - Build a strong foundation in Data Structures & Algorithms  
