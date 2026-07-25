@@ -547,6 +547,14 @@ Approach - Frequency Array + Divisibility Check
 Problem 2 - Maximum Number of Words You Can Type
 Approach - Boolean Array + String Traversal
 
+Day - 77
+
+Problem 1 - Check if the Sentence Is Pangram
+Approach - Boolean Array + Character Tracking
+
+Problem 2 - Truncate Sentence
+Approach - String Traversal + Word Counting
+
 
 Goals
 
