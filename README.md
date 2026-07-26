@@ -555,6 +555,13 @@ Approach - Boolean Array + Character Tracking
 Problem 2 - Truncate Sentence
 Approach - String Traversal + Word Counting
 
+Day - 78
+
+Problem 1 - Count Vowel Strings in Ranges
+Approach - Prefix Sum + Range Queries
+
+Problem 2 - Sorting the Sentence
+Approach - Index Mapping + String Manipulation
 
 Goals
 
