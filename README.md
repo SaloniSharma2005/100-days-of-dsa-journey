@@ -563,6 +563,11 @@ Approach - Prefix Sum + Range Queries
 Problem 2 - Sorting the Sentence
 Approach - Index Mapping + String Manipulation
 
+Day - 79
+
+Problem - Delete Characters to Make Fancy String
+Approach - Greedy + StringBuilder
+
 Goals
 
 - Build a strong foundation in Data Structures & Algorithms  
