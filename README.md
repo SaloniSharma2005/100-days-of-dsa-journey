@@ -568,6 +568,11 @@ Day - 79
 Problem - Delete Characters to Make Fancy String
 Approach - Greedy + StringBuilder
 
+Day - 80
+
+Problem - Maximum Score After Splitting a String
+Approach - Prefix Counting + Greedy Traversal
+
 Goals
 
 - Build a strong foundation in Data Structures & Algorithms  
