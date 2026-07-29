@@ -573,6 +573,11 @@ Day - 80
 Problem - Maximum Score After Splitting a String
 Approach - Prefix Counting + Greedy Traversal
 
+Day - 81
+
+Problem - Binary String With Substrings Representing 1 To N
+Approach - Binary Conversion + String Matching
+
 Goals
 
 - Build a strong foundation in Data Structures & Algorithms  
