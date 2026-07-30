@@ -578,6 +578,14 @@ Day - 81
 Problem - Binary String With Substrings Representing 1 To N
 Approach - Binary Conversion + String Matching
 
+Day - 82
+
+Problem 1 - Find and Replace Pattern
+Approach - Bidirectional HashMap Mapping
+
+Problem 2 - Decode the Message
+Approach - Character Mapping + StringBuilder
+
 Goals
 
 - Build a strong foundation in Data Structures & Algorithms  
