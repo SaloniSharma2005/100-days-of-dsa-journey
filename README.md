@@ -586,6 +586,14 @@ Approach - Bidirectional HashMap Mapping
 Problem 2 - Decode the Message
 Approach - Character Mapping + StringBuilder
 
+Day - 83
+
+Problem 1 - Remove Duplicates from Sorted List
+Approach - In-place Linked List Traversal
+
+Problem 2 - Remove Linked List Elements
+Approach - Dummy Node + Pointer Manipulation
+
 Goals
 
 - Build a strong foundation in Data Structures & Algorithms  
