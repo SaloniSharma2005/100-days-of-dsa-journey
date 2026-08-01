@@ -594,6 +594,14 @@ Approach - In-place Linked List Traversal
 Problem 2 - Remove Linked List Elements
 Approach - Dummy Node + Pointer Manipulation
 
+Day - 84
+
+Problem 1 - Intersection of Two Linked Lists
+Approach - Two Pointer Switching
+
+Problem 2 - Delete the Middle Node of a Linked List
+Approach - Fast & Slow Pointers + Previous Pointer
+
 Goals
 
 - Build a strong foundation in Data Structures & Algorithms  
