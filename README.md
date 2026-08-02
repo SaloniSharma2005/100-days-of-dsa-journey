@@ -602,6 +602,14 @@ Approach - Two Pointer Switching
 Problem 2 - Delete the Middle Node of a Linked List
 Approach - Fast & Slow Pointers + Previous Pointer
 
+Day - 85
+
+Problem 1 - Linked List Components
+Approach - HashSet + Single Traversal
+
+Problem 2 - Convert Binary Number in a Linked List to Integer
+Approach - Binary to Decimal Conversion + Linked List Traversal
+
 Goals
 
 - Build a strong foundation in Data Structures & Algorithms  
