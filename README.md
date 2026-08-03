@@ -610,6 +610,11 @@ Approach - HashSet + Single Traversal
 Problem 2 - Convert Binary Number in a Linked List to Integer
 Approach - Binary to Decimal Conversion + Linked List Traversal
 
+Day - 86
+
+Problem - Swap Nodes in Pairs
+Approach - Dummy Node + Pointer Manipulation
+
 Goals
 
 - Build a strong foundation in Data Structures & Algorithms  
