@@ -615,6 +615,11 @@ Day - 86
 Problem - Swap Nodes in Pairs
 Approach - Dummy Node + Pointer Manipulation
 
+Day - 87
+
+Problem - Odd Even Linked List
+Approach - Pointer Manipulation + In-place Reordering
+
 Goals
 
 - Build a strong foundation in Data Structures & Algorithms  
