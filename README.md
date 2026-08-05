@@ -620,6 +620,11 @@ Day - 87
 Problem - Odd Even Linked List
 Approach - Pointer Manipulation + In-place Reordering
 
+Day - 88
+
+Problem - Reverse Linked List II
+Approach - Dummy Node + In-place Pointer Reversal
+
 Goals
 
 - Build a strong foundation in Data Structures & Algorithms  
