@@ -625,6 +625,11 @@ Day - 88
 Problem - Reverse Linked List II
 Approach - Dummy Node + In-place Pointer Reversal
 
+Day - 89
+
+Problem - Split Linked List in Parts
+Approach - Length Calculation + Pointer Manipulation
+
 Goals
 
 - Build a strong foundation in Data Structures & Algorithms  
