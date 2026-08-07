@@ -630,6 +630,11 @@ Day - 89
 Problem - Split Linked List in Parts
 Approach - Length Calculation + Pointer Manipulation
 
+Day - 90
+
+Problem - Delete Nodes From Linked List Present in Array
+Approach - HashSet + Dummy Node + Pointer Manipulation
+
 Goals
 
 - Build a strong foundation in Data Structures & Algorithms  
