@@ -640,6 +640,12 @@ Day - 91
 Problem - Add Two Numbers
 Approach - Linked List Traversal + Carry Handling
 
+Day - 92
+
+Problem - Rotate List
+Approach - Circular Linked List + Pointer Manipulation
+
+
 
 
 Goals
