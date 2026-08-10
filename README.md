@@ -645,6 +645,16 @@ Day - 92
 Problem - Rotate List
 Approach - Circular Linked List + Pointer Manipulation
 
+Day - 93
+
+Problem - Reorder List
+
+Approach:
+1. Find the middle using Fast & Slow Pointers
+2. Reverse the second half
+3. Merge both halves alternately
+
+
 
 
 
