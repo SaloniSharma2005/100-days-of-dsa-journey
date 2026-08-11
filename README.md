@@ -654,7 +654,14 @@ Approach:
 2. Reverse the second half
 3. Merge both halves alternately
 
+Day - 94
 
+Problem - Palindrome Linked List
+
+Approach:
+1. Find the middle using Fast & Slow Pointers
+2. Reverse the second half
+3. Compare both halves
 
 
 
