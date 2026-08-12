@@ -663,7 +663,16 @@ Approach:
 2. Reverse the second half
 3. Compare both halves
 
+Day - 95
 
+Problem - Merge In Between Linked Lists
+
+Approach:
+1. Find the node before position a
+2. Find the node after position b
+3. Connect the first list to list2
+4. Find the tail of list2
+5. Connect list2 to the remaining part of list1
 
 Goals
 
