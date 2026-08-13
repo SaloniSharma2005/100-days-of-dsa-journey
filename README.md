@@ -674,6 +674,17 @@ Approach:
 4. Find the tail of list2
 5. Connect list2 to the remaining part of list1
 
+Day - 96
+
+Problem - Implement Queue using Stacks
+
+Approach:
+1. Use stack1 for push operations
+2. Use stack2 for pop and peek operations
+3. If stack2 is empty, transfer all elements from stack1 to stack2
+4. This reverses the order and provides FIFO behavior
+
+
 Goals
 
 - Build a strong foundation in Data Structures & Algorithms  
