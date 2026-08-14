@@ -684,6 +684,16 @@ Approach:
 3. If stack2 is empty, transfer all elements from stack1 to stack2
 4. This reverses the order and provides FIFO behavior
 
+Day - 97
+
+Problem - Min Stack
+
+Approach:
+1. Use one stack to store all elements
+2. Use another stack to track minimum values
+3. Push a value to minStack if it is smaller than or equal to the current minimum
+4. During pop, remove from minStack when the popped value is equal to its top
+
 
 Goals
 
