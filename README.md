@@ -694,6 +694,16 @@ Approach:
 3. Push a value to minStack if it is smaller than or equal to the current minimum
 4. During pop, remove from minStack when the popped value is equal to its top
 
+5. Day - 98
+
+Problem - Next Greater Element I
+
+Approach:
+1. Traverse nums2
+2. Maintain a monotonic decreasing stack
+3. When a greater element is found, map smaller elements to it
+4. Use the HashMap to find answers for nums1
+
 
 Goals
 
