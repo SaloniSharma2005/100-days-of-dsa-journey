@@ -704,6 +704,31 @@ Approach:
 3. When a greater element is found, map smaller elements to it
 4. Use the HashMap to find answers for nums1
 
+Day - 99
+
+Problem - Daily Temperatures
+
+Approach:
+1. Traverse the temperature array from left to right
+2. Store indices in a monotonic decreasing stack
+3. When a warmer temperature is found, pop previous indices
+4. Calculate the number of days using currentIndex - previousIndex
+5. Push the current index into the stack
+
+Day - 100
+
+Problem - Evaluate Reverse Polish Notation
+
+Approach:
+1. Traverse each token in the array
+2. If the token is a number, push it into the stack
+3. If the token is an operator, pop the top two elements
+4. Perform the operation carefully using:
+   a = second popped element
+   b = first popped element
+5. Push the result back into the stack
+6. The final remaining element is the answer
+
 
 Goals
 
