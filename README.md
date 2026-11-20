@@ -37,7 +37,7 @@ Day - 5
 Problem 1 - Remove Duplicates from Sorted Array  
 Approach - Traversal  
 roblem 2 - Union of Two Sorted Arrays  
-Approach - Two Pointer  
+Approach - Two Pointer
 
 Day - 6
 Problem 1 - Missing Number in Array  
