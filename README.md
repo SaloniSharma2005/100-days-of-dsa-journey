@@ -743,7 +743,8 @@ Goals
 
  ⭐ Motivation
 
-
+Consistency is the key.  
+Small steps every day lead to big results.
 
 
 📌 Feel free to explore the repository and follow my journey!
